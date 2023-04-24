@@ -1,4 +1,4 @@
-# TercerSemestre-EncyptedCode
+# TercerSemestre-EncryptedCode
 
 # **Bienvenidos al repositorio del grupo Encrypted Code **
 
