@@ -5,8 +5,8 @@
 ![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 ## Este repositorio contiene las carpetas correspondientes a:
-##### :fa-laptop: PROGRAMACION III: JAVA
-##### :fa-laptop: LABORATORIO III: JAVASCRIPT Y PYTHON
+##### PROGRAMACION III: JAVA
+##### LABORATORIO III: JAVASCRIPT Y PYTHON
 
 ## Trabajeros con el metodo Scrum de la siguiente forma:
 
