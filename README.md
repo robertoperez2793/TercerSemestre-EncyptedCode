@@ -8,7 +8,7 @@
 ##### PROGRAMACION III: JAVA
 ##### LABORATORIO III: JAVASCRIPT Y PYTHON
 
-## Trabajeros con el metodo Scrum de la siguiente forma:
+## Trabajaremos con el metodo Scrum de la siguiente forma:
 
 | **Semanas** | **Scrum Master** |
 | ---- | ---- |
