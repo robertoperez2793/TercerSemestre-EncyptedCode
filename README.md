@@ -3,6 +3,7 @@
 # **Bienvenidos al repositorio del grupo Encrypted Code **
 
 ![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
+https://i.gifer.com/CScu.gif
 
 ## Este repositorio contiene las carpetas correspondientes a:
 ##### PROGRAMACION III: JAVA
