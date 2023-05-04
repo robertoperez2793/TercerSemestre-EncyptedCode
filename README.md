@@ -1,6 +1,7 @@
 # TercerSemestre-EncryptedCode
 
-# **Bienvenidos al repositorio del grupo Encrypted Code **   ![image](https://user-images.githubusercontent.com/112596102/236114141-bc640460-fc25-45a5-80fd-802cfbba910d.png)    ![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
+# **Bienvenidos al repositorio del grupo Encrypted Code **   ![image](https://user-images.githubusercontent.com/112596102/236114141-bc640460-fc25-45a5-80fd-802cfbba910d.png)    ![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)  ![image](https://user-images.githubusercontent.com/112596102/236115180-d93b7ee5-3732-4e53-b297-de21dcae5ac2.png)
+
 
 ## Este repositorio contiene las carpetas correspondientes a:
 ##### PROGRAMACION III: JAVA
