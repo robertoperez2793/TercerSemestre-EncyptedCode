@@ -1,6 +1,8 @@
 # TercerSemestre-EncryptedCode
 
-# **Bienvenidos al repositorio del grupo Encrypted Code **   ![image](https://user-images.githubusercontent.com/112596102/236114141-bc640460-fc25-45a5-80fd-802cfbba910d.png)                                  ![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)                                               ![image](https://user-images.githubusercontent.com/112596102/236115334-72ffff14-2f9a-4459-957b-0a87fc8a8056.png)
+# **Bienvenidos al repositorio del grupo Encrypted Code **   ![image](https://user-images.githubusercontent.com/112596102/236114141-bc640460-fc25-45a5-80fd-802cfbba910d.png)                                  ![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)                                               
+
+![image](https://user-images.githubusercontent.com/112596102/236116242-0a99cc0b-645a-498a-8604-ae8c3cbcbded.png)
 
 
 
