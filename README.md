@@ -11,8 +11,7 @@
 
 
 
-## Trabajaremos con el metodo Scrum de la siguiente forma:  ![image](https://user-images.githubusercontent.com/112596102/236117698-cd113ed1-b1f5-47bb-863e-d5e3858ce22d.png)
-
+## Trabajaremos con el metodo Scrum de la siguiente forma: 
 
 | **Semanas** | **Scrum Master** |
 | ---- | ---- |
@@ -24,3 +23,4 @@
 | 05/06/2023 | *Andrea Llavel*|
 |12/06/2023|*Rocio Pulitta*|
 |19/06/2023|*Luis Mayorga*|
+ ![image](https://user-images.githubusercontent.com/112596102/236117698-cd113ed1-b1f5-47bb-863e-d5e3858ce22d.png)
