@@ -3,7 +3,7 @@
 # **Bienvenidos al repositorio del grupo Encrypted Code **
 
 ![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)            
-![image](https://user-images.githubusercontent.com/112596102/236110827-b07dca4b-e6d8-44f1-8c6e-1dd3db30b11c.png)
+![image](https://user-images.githubusercontent.com/112596102/236110827-b07dca4b-e6d8-44f1-8c6e-1dd3db30b11c.png)https://i.gifer.com/CScu.gif
 
 
 
